@@ -1,3 +1,4 @@
+
 # Otis Primes Finder
 
 This repository contains tools for finding Otis primes, which are primes of the form \(2^k - 3\).
